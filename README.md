@@ -11,7 +11,7 @@ Prog en Ambiente Cliente-Servidor
  ​        
  ​        <tbody> 
  ​            <tr> 
- ​                <td align="center"><a href="https://github.com/MoisesCarrasco"><img src="https://avatars.githubusercontent.com/u/95512369?s=400&u=edfeee2909a7ea653850742749aad3111f51b490&v=4" width= "115" style="max-width: 100%;"><br><sub>@Moises</sub></a> <br> </br> <h></ h> </td> 
+ ​                <td align="center"><a href="https://github.com/MoisesCarrasco"><img src="https://avatars.githubusercontent.com/u/95512369?s=400&u=edfeee2909a7ea653850742749aad3111f51b490&v=4" width= "115" style="max-width: 100%;"><br><sub>@Moises</sub></a> <br> </br> <h></h> </td> 
  ​                <td align="center"><a href="https://github.com/Emmas16"><img src="https://avatars.githubusercontent.com/u/98869002?v=4" width=" 115" style="max-width: 100%;"><br><sub>@Emmanuel</sub></a><br></br><h></h> </td> 
  ​                <td align="center"><a href="https://github.com/sandra23lily"><img src="https://avatars.githubusercontent.com/u/58019370?v=4" width="115 " style="max-width: 100%;"><br><sub>@Sandra</sub></a> <br> </br> <h></h> </td>        
  ​ 
