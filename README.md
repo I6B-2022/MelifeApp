@@ -25,8 +25,10 @@ Prog en Ambiente Cliente-Servidor
  ​        </thead> 
  ​        <tbody> 
  ​            <tr> 
- ​                <td align="center"><a href="https://github.com/MoisesCarrasco"><img src=https://avatars.githubusercontent.com/u/85704884?v=4" width="115" style="max-width: 100%;"><br><sub>@MoisesCarrasco</sub></a> <br> </br>  </td> 
+ ​                <td align="center"><a href="https://github.com/MoisesCarrasco"><img src="https://avatars.githubusercontent.com/u/85704884?v=4" width="115" style="max-width: 100%;"><br><sub>@MoisesCarrasco</sub></a> <br> </br>  </td>
+
  ​                <td align="center"><a href="https://github.com/Emmas16"><img src="https://avatars.githubusercontent.com/u/98869002?v=4" width="115" style="max-width: 100%;"><br><sub>@EmmanuelAlmaraz</sub></a><br></br> </td> 
+
  ​                <td align="center"><a href="https://github.com/sandra23lily"><img src="https://avatars.githubusercontent.com/u/58019370?v=4" width="115" style="max-width: 100%;"><br><sub>@SandraSantiago</sub></a> <br> </br>  </td>        
  ​  
  ​</tr> 
